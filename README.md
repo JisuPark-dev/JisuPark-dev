@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   <a href="https://velog.io/@sudong“><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     
-  <a href="https://velog.io/@sudong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="https://velog.io/@sudong"/></a>
+  <a href="https://velog.io/@sudong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@sudong"/></a>
 </p>
 
