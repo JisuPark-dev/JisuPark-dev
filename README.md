@@ -1,4 +1,4 @@
-### Hi there, I'm Jisu Park 👋
+### Hi there, I'm <a href="##">Jisu Park</a> 👋
 Currently working on web backend (using Spring). 
 
 <!--
