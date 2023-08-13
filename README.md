@@ -27,6 +27,7 @@ Currently working on web backend (using Spring).
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
