@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1>Hi there, I'm <a href="##">Jisu Park</a> 👋</h1>
-<br><br>
+<br>
 
 <p>⚒️ Language ⚒️</p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
