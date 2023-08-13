@@ -41,7 +41,8 @@
 
 
 <br><br><br>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisupark-dev&layout=compact">
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisuPark-dev&show_icons=true&theme=radical)
 <br><br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgd04)](https://solved.ac/dgd04/)
