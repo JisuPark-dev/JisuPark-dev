@@ -3,7 +3,7 @@
 ### Hi there, I'm <a href="##">Jisu Park</a> 👋
 Currently working on web backend (using Spring). 
 <div align="center">
-⚒️ Tech Stack ⚒️
+<p>⚒️ Tech Stack ⚒️</p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 📋 Once I've Used ( WEB / ML / Game / Git ) 📋
