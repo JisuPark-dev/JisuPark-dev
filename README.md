@@ -1,6 +1,6 @@
 <div align="center">
   
-<p>Hi there, I'm <a href="##">Jisu Park</a> 👋</p>
+<h1>Hi there, I'm <a href="##">Jisu Park</a> 👋</h1>
 <br><br>
 
 <p>⚒️ Language ⚒️</p>
